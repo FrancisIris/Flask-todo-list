@@ -1,4 +1,5 @@
 # Flask todo list
+I had issues getting poetry to run on my system so have not used poerty
 
 Using CMD:
 set FLASK_APP=flasktodo
